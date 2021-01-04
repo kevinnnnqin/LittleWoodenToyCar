@@ -10,4 +10,7 @@ and some motor with the help of 3D software Solidworks.
 
 I will record every stage of the program.
 
-Just for fun. 2021-1-4
+Just for fun~
+                        2021-1-4
+
+#### stage design
