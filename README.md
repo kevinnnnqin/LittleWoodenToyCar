@@ -13,4 +13,5 @@ I will record every stage of the program.
 Just for fun~
                         2021-1-4
 
-#### stage design
+#### 1. stage_1 : design
+     design with the taobao's toy pics.
