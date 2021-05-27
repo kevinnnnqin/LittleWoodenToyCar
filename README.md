@@ -15,3 +15,11 @@ Just for fun~
 
 #### 1. stage_1 : design
      design with the taobao's toy pics.
+
+
+
+Adidas Work daily:
+Date: 2021-5-27
+    How to use Excel array.
+    Link: https://jingyan.baidu.com/article/e4d08ffd45e7d70fd2f60d21.html
+    
