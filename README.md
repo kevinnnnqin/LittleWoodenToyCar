@@ -19,7 +19,9 @@ Just for fun~
 
 
 Adidas Work daily:  
+
 Date: 2021-5-27  
-    How to use Excel array.  
+
+    1. How to use Excel array.  
     Link: https://jingyan.baidu.com/article/e4d08ffd45e7d70fd2f60d21.html  
     
